@@ -1,0 +1,189 @@
+[
+  {
+    "service_id": "DL_001",
+    "service_name": "Driving Licence",
+    "category": "Transport",
+    "department": "Ministry of Road Transport and Highways",
+    "description": "Application and related services for obtaining a driving licence.",
+    "eligibility": [
+      "Applicant must satisfy the applicable age and licensing requirements for the vehicle category.",
+      "Applicant must complete the applicable learner/driving test requirements."
+    ],
+    "required_documents": [
+      "Proof of address and age",
+      "Form 1 self-declaration of physical fitness where applicable",
+      "Form 1A medical certificate where applicable",
+      "Driving school certificate where applicable",
+      "Parent/guardian declaration for minor applicants where applicable",
+      "Photograph"
+    ],
+    "required_details": [
+      "Name",
+      "Date of birth",
+      "Address",
+      "Vehicle category"
+    ],
+    "procedure": [
+      "Apply through the applicable Parivahan/Sarathi service.",
+      "Submit required documents.",
+      "Complete applicable learner/driving test requirements.",
+      "Pay applicable fees.",
+      "Licence is issued after successful completion of requirements."
+    ],
+    "fee": "As prescribed by applicable rules",
+    "processing_time": "Depends on service and verification",
+    "official_url": "https://parivahan.gov.in/",
+    "source_url": "https://parivahan.gov.in/parivahan/sites/default/files/DownloadForm/cmvr/FORM-2.pdf"
+  },
+  {
+    "service_id": "VR_001",
+    "service_name": "Vehicle Registration",
+    "category": "Transport",
+    "department": "Ministry of Road Transport and Highways",
+    "description": "Registration of a motor vehicle with the registering authority.",
+    "eligibility": [
+      "Vehicle owner must apply to the registering authority having jurisdiction."
+    ],
+    "required_documents": [
+      "Form 20",
+      "Sales Certificate Form 21",
+      "Road Worthiness Certificate Form 22",
+      "Pollution Under Control certificate",
+      "Valid insurance certificate",
+      "Proof of address",
+      "Temporary registration, if applicable",
+      "Form 34, if hypothecation applies",
+      "PAN/Form 60/Form 61 where applicable"
+    ],
+    "required_details": [
+      "Owner name",
+      "Owner address",
+      "Vehicle details",
+      "Dealer/manufacturer details",
+      "Vehicle purchase details"
+    ],
+    "procedure": [
+      "Submit the registration application to the appropriate registering authority.",
+      "Submit the required documents.",
+      "Pay applicable registration fee and taxes.",
+      "Complete applicable verification/registration requirements.",
+      "Receive the registration certificate."
+    ],
+    "fee": "As prescribed under applicable rules",
+    "processing_time": "Depends on RTO/service processing",
+    "official_url": "https://parivahan.gov.in/",
+    "source_url": "https://parivahan.gov.in/en/content/permanent-registration"
+  },
+  {
+    "service_id": "INC_001",
+    "service_name": "Income Certificate",
+    "category": "Certificate",
+    "department": "Revenue Department, Government of NCT of Delhi",
+    "description": "Issuance of an official certificate showing the applicant's income.",
+    "eligibility": [
+      "Applicant must be an Indian citizen.",
+      "Applicant must be a permanent resident of NCT of Delhi."
+    ],
+    "required_documents": [
+      "Identity proof",
+      "Present address proof",
+      "Permanent address proof",
+      "Family income proof such as salary slips where applicable",
+      "Relevant expenditure documents where applicable",
+      "Self-declaration",
+      "Passport-size photograph",
+      "BPL/NFS card where applicable"
+    ],
+    "required_details": [
+      "Applicant name",
+      "Address",
+      "Family income",
+      "Income sources",
+      "Relevant family details"
+    ],
+    "procedure": [
+      "Apply through Delhi e-District.",
+      "Provide required information and documents.",
+      "Upload documents for online application.",
+      "Complete verification if required.",
+      "Receive the certificate after processing."
+    ],
+    "fee": "Verify current fee on the official portal",
+    "processing_time": "Verify current processing time on the official portal",
+    "official_url": "https://edistrict.delhi.gov.in/",
+    "source_url": "https://edistrict.delhi.gov.in/Public/ViewUploadScanDocumentTemplate?q=riKGp6qbpouao2hGbLw4dJUtjAFtwDFpZutrIuogId0%3D"
+  },
+  {
+    "service_id": "DOM_001",
+    "service_name": "Domicile Certificate",
+    "category": "Certificate",
+    "department": "Revenue Department, Government of NCT of Delhi",
+    "description": "Certificate establishing domicile/residence status in Delhi.",
+    "eligibility": [
+      "Applicant must be an Indian citizen.",
+      "Applicant must have continuously resided in NCT of Delhi for the last three years."
+    ],
+    "required_documents": [
+      "Identity proof",
+      "Proof of continuous residence in Delhi for the last three years",
+      "Self-declaration",
+      "Passport-size coloured photograph"
+    ],
+    "required_details": [
+      "Applicant name",
+      "Date of birth",
+      "Current address",
+      "Residence history",
+      "Parent details where applicable"
+    ],
+    "procedure": [
+      "Apply through Delhi e-District.",
+      "Submit/upload required documents.",
+      "Submit self-declaration.",
+      "Complete verification if required.",
+      "Receive the domicile certificate."
+    ],
+    "fee": "Verify current fee on the official portal",
+    "processing_time": "Verify current processing time on the official portal",
+    "official_url": "https://edistrict.delhi.gov.in/",
+    "source_url": "https://edistrict.delhi.gov.in/Public/ViewUploadScanDocumentTemplate?q=GDX0anvCbFI+Ydkd0X4TfOMzCufU1wuuYbY+d%2FMGkho%3D"
+  },
+  {
+    "service_id": "CASTE_SC_001",
+    "service_name": "SC Caste Certificate",
+    "category": "Certificate",
+    "department": "Revenue Department, Government of NCT of Delhi",
+    "description": "Issuance of an SC caste certificate in Delhi.",
+    "eligibility": [
+      "Applicant must be an Indian citizen.",
+      "Applicant must belong to a caste included in the applicable Scheduled Castes orders."
+    ],
+    "required_documents": [
+      "Identity proof",
+      "Present address proof",
+      "Permanent address proof",
+      "Caste certificate of paternal relative where applicable",
+      "Proof of relationship with the certificate holder where applicable",
+      "Birth certificate or educational/residence evidence where applicable",
+      "Application form",
+      "Photograph"
+    ],
+    "required_details": [
+      "Applicant name",
+      "Date of birth",
+      "Address",
+      "Caste details",
+      "Parent/family details"
+    ],
+    "procedure": [
+      "Apply through Delhi e-District.",
+      "Submit the applicable caste and identity/residence documents.",
+      "Complete verification where required.",
+      "Receive the certificate after approval."
+    ],
+    "fee": "Verify current fee on the official portal",
+    "processing_time": "Verify current processing time on the official portal",
+    "official_url": "https://edistrict.delhi.gov.in/",
+    "source_url": "https://edistrict.delhi.gov.in/Public/ViewUploadScanDocumentTemplate?q=lC%2FpNp5TPkzmQmDopE7xNpVTQ95OIoVTdMKB66fUUIU%3D"
+  }
+]
